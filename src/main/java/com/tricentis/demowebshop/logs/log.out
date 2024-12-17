@@ -1,0 +1,471 @@
+2024-12-16 08:12:431 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (8b50cf3f53c7cd0590c4a2b805ae0fe5)] -> link text: Log in]
+2024-12-16 08:12:462 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (8b50cf3f53c7cd0590c4a2b805ae0fe5)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 08:12:390 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (b960f2b8b0fa220516aee2d37f4a2dc4)] -> link text: Log in]
+2024-12-16 08:12:882 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (8cadb76ed14dce68020a9c6359e919d5)] -> link text: Log in]
+2024-12-16 08:12:924 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (8cadb76ed14dce68020a9c6359e919d5)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 08:12:50 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (91c4ddda3d22b5081a1ffd5730430913)] -> link text: Log in]
+2024-12-16 21:12:330 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (88531044763aa43a1e338263c719fa04)] -> link text: Log in]
+2024-12-16 21:12:381 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (88531044763aa43a1e338263c719fa04)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 21:12:414 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (15af7179e4707cd31783041436ab8ffb)] -> link text: Log in]
+2024-12-16 21:12:163 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (a521dd4f49b067e6779d6381eaaf59c1)] -> link text: Log in]
+2024-12-16 21:12:214 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (a521dd4f49b067e6779d6381eaaf59c1)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 21:12:351 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (d0464b0d43b91023283b7e7cd0b7c025)] -> link text: Log in]
+2024-12-16 21:12:954 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 21:12:566 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 21:12:146 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 21:12:804 INFO  HomePage :44 - Enter EmailId 'primefivetest@yahoo.com' to email field : 
+2024-12-16 21:12:951 INFO  HomePage :51 - Enter Password 'abc123' to password field : 
+2024-12-16 21:12:447 INFO  HomePage :58 - Click on loginButton
+2024-12-16 21:12:866 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 21:12:519 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 21:12:269 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 21:12:390 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 21:12:524 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:954 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:465 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:975 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:119 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:676 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:169 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:356 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:974 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:480 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:475 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:882 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:287 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-16 22:12:798 INFO  HomePage :44 - Enter EmailId 'prime@gmail.com' to email field : 
+2024-12-16 22:12:896 INFO  HomePage :51 - Enter Password 'prime123' to password field : 
+2024-12-16 22:12:184 INFO  HomePage :58 - Click on loginButton
+2024-12-16 22:12:317 INFO  HomePage :64 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 05:12:932 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:432 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 05:12:228 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:888 INFO  HomePage :44 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 05:12:28 INFO  HomePage :51 - Enter Password 'Pk123' to password field : 
+2024-12-17 05:12:553 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:157 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:893 INFO  HomePage :44 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 05:12:127 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:453 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:922 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:662 INFO  HomePage :44 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 05:12:802 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:92 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:114 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:668 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 05:12:848 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:542 INFO  HomePage :44 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 05:12:662 INFO  HomePage :51 - Enter Password 'Pk123' to password field : 
+2024-12-17 05:12:987 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:513 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:99 INFO  HomePage :44 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 05:12:231 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:565 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:186 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:788 INFO  HomePage :44 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 05:12:906 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:262 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:780 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:394 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 05:12:40 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:693 INFO  HomePage :44 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 05:12:843 INFO  HomePage :51 - Enter Password 'Pk123' to password field : 
+2024-12-17 05:12:423 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:79 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:837 INFO  HomePage :44 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 05:12:33 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:407 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:905 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:631 INFO  HomePage :44 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 05:12:737 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:96 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:78 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:950 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 05:12:607 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:457 INFO  HomePage :44 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 05:12:622 INFO  HomePage :51 - Enter Password 'Pk123' to password field : 
+2024-12-17 05:12:28 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:517 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:270 INFO  HomePage :44 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 05:12:389 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:715 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:362 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:123 INFO  HomePage :44 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 05:12:220 INFO  HomePage :51 - Enter Password 'Pk123$56' to password field : 
+2024-12-17 05:12:733 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:918 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:545 INFO  HomePage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 05:12:77 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:787 INFO  HomePage :44 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 05:12:873 INFO  HomePage :51 - Enter Password 'Pk123' to password field : 
+2024-12-17 05:12:418 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:501 INFO  HomePage :64 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 05:12:927 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:599 INFO  HomePage :44 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 05:12:736 INFO  HomePage :51 - Enter Password 'Pk123456' to password field : 
+2024-12-17 05:12:192 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:253 INFO  HomePage :64 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 05:12:874 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:522 INFO  HomePage :44 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 05:12:631 INFO  HomePage :51 - Enter Password 'Pk123456' to password field : 
+2024-12-17 05:12:81 INFO  HomePage :58 - Click on loginButton
+2024-12-17 05:12:182 INFO  HomePage :64 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 05:12:740 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:347 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 05:12:945 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:712 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 05:12:852 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 05:12:161 INFO  HomePage :63 - Click on loginButton
+2024-12-17 05:12:227 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 05:12:971 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:677 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 05:12:769 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 05:12:333 INFO  HomePage :63 - Click on loginButton
+2024-12-17 05:12:399 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 05:12:360 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 05:12:321 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 05:12:511 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 05:12:910 INFO  HomePage :63 - Click on loginButton
+2024-12-17 05:12:105 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 06:12:137 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:539 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 06:12:35 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:644 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 06:12:735 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 06:12:67 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:176 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 06:12:495 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:994 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 06:12:91 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:418 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:533 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 06:12:810 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:340 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 06:12:436 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:828 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:867 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 06:12:240 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:781 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 06:12:870 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:526 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:869 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:395 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 06:12:482 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:214 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:69 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:525 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 06:12:47 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:584 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 06:12:673 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 06:12:954 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:52 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 06:12:344 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:843 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 06:12:938 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:229 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:365 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 06:12:798 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:266 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 06:12:354 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:713 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:755 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 06:12:152 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:655 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 06:12:750 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:247 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:524 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 06:12:128 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 06:12:219 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 06:12:697 INFO  HomePage :63 - Click on loginButton
+2024-12-17 06:12:792 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 06:12:247 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 06:12:215 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 06:12:623 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 06:12:967 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 06:12:410 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 06:12:883 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 06:12:328 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 06:12:610 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 06:12:87 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:822 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:437 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 07:12:921 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:425 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:97 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:567 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 07:12:285 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:804 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:07 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:470 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 07:12:229 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:99 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:114 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:743 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:330 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:848 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:314 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:829 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:109 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:995 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:736 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:135 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 07:12:201 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:655 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:12 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:438 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:691 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:119 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:278 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:712 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:854 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:251 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:519 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:979 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 07:12:404 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:894 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:420 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:878 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:160 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:610 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:61 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:556 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:952 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:420 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 07:12:133 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:592 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 07:12:943 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 07:12:517 INFO  HomePage :49 - Enter EmailId 'prashant223311@gmail.com' to email field : 
+2024-12-17 07:12:611 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 07:12:687 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 09:12:323 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:10 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 09:12:738 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:546 INFO  HomePage :49 - Enter EmailId 'prashant223311@gmail.com' to email field : 
+2024-12-17 09:12:737 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 09:12:812 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 09:12:795 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 09:12:327 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 09:12:848 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 09:12:510 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 09:12:595 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 09:12:98 INFO  HomePage :63 - Click on loginButton
+2024-12-17 09:12:141 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 09:12:510 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 09:12:166 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 09:12:248 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 09:12:558 INFO  HomePage :63 - Click on loginButton
+2024-12-17 09:12:650 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 09:12:70 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 09:12:816 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 09:12:38 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 09:12:452 INFO  HomePage :63 - Click on loginButton
+2024-12-17 09:12:558 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 09:12:847 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 09:12:473 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 09:12:561 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 09:12:263 INFO  HomePage :63 - Click on loginButton
+2024-12-17 09:12:738 INFO  HomePage :45 - Click on loginLink : Log in
+2024-12-17 09:12:367 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 09:12:457 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 09:12:21 INFO  HomePage :63 - Click on loginButton
+2024-12-17 09:12:68 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:689 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 09:12:236 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:960 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 09:12:587 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:264 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 09:12:246 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:896 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 09:12:712 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:456 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 09:12:187 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:842 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 09:12:750 INFO  HomePage :58 - Click on registerLink : Register
+2024-12-17 09:12:612 INFO  HomePage :49 - Enter EmailId 'prashant223311@gmail.com' to email field : 
+2024-12-17 09:12:702 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 09:12:788 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:865 INFO  HomePage :30 - Get pageTitle text : Computers
+2024-12-17 10:12:251 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:975 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 10:12:647 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:357 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 10:12:84 INFO  HomePage :30 - Get pageTitle text : Computers
+2024-12-17 10:12:769 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:364 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 10:12:970 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:830 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 10:12:441 INFO  HomePage :36 - Get pageTitle text Desktops
+2024-12-17 10:12:408 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:434 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 10:12:867 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 10:12:294 INFO  HomePage :63 - Click on loginButton
+2024-12-17 10:12:450 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 10:12:322 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:118 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 10:12:377 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 10:12:687 INFO  HomePage :63 - Click on loginButton
+2024-12-17 10:12:884 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:621 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:488 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 10:12:627 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 10:12:993 INFO  HomePage :63 - Click on loginButton
+2024-12-17 10:12:216 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:679 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:710 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:848 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:920 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:839 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:689 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:679 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:456 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:357 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:997 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:21 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:762 INFO  HomePage :49 - Enter EmailId 'prashant223311@gmail.com' to email field : 
+2024-12-17 10:12:846 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 10:12:926 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:996 INFO  HomePage :36 - Get pageTitle text Desktops
+2024-12-17 10:12:416 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:986 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 10:12:103 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 10:12:587 INFO  HomePage :63 - Click on loginButton
+2024-12-17 10:12:692 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 10:12:55 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:673 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 10:12:818 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 10:12:173 INFO  HomePage :63 - Click on loginButton
+2024-12-17 10:12:302 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:614 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 10:12:427 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 10:12:571 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 10:12:955 INFO  HomePage :63 - Click on loginButton
+2024-12-17 10:12:69 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:413 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:313 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:83 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:822 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:780 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:672 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:409 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:228 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:39 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:929 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 10:12:454 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 10:12:409 INFO  HomePage :49 - Enter EmailId 'prashant223311@gmail.com' to email field : 
+2024-12-17 10:12:686 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 10:12:845 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 11:12:514 INFO  HomePage :38 - Get pageTitle text : Computers
+2024-12-17 11:12:330 INFO  HomePage :40 - Get pageTitle text Desktops
+2024-12-17 11:12:921 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 11:12:447 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 11:12:794 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 11:12:396 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 11:12:500 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 11:12:748 INFO  HomePage :63 - Click on loginButton
+2024-12-17 11:12:842 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 11:12:990 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 11:12:617 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 11:12:789 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 11:12:139 INFO  HomePage :63 - Click on loginButton
+2024-12-17 11:12:263 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 11:12:492 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 11:12:89 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 11:12:229 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 11:12:730 INFO  HomePage :63 - Click on loginButton
+2024-12-17 11:12:831 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 11:12:330 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 11:12:990 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 11:12:68 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 11:12:796 INFO  HomePage :63 - Click on loginButton
+2024-12-17 11:12:34 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 11:12:586 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 11:12:665 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 11:12:163 INFO  HomePage :63 - Click on loginButton
+2024-12-17 11:12:275 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 11:12:902 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 11:12:196 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 11:12:907 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 11:12:451 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 11:12:31 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 11:12:506 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 11:12:04 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 11:12:908 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 11:12:517 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 11:12:948 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 11:12:722 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 11:12:439 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 11:12:103 INFO  HomePage :49 - Enter EmailId 'prashant223311@gmail.com' to email field : 
+2024-12-17 11:12:194 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 11:12:269 INFO  HomePage :135 - Click on 'REGISTER' button
+2024-12-17 22:12:725 INFO  HomePage :38 - Get pageTitle text : Computers
+2024-12-17 22:12:327 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 22:12:37 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 22:12:05 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 22:12:788 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 22:12:349 INFO  HomePage :38 - Get pageTitle text : Computers
+2024-12-17 22:12:971 INFO  HomePage :61 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-17 22:12:72 INFO  HomePage :68 - Select RAM '2 GB'
+2024-12-17 22:12:146 INFO  HomePage :76 - Select HDD '320 GB'
+2024-12-17 22:12:229 INFO  HomePage :87 - Select HDD 'Windows 7 [+50.00]'
+2024-12-17 22:12:321 INFO  HomePage :107 - Click on 'ADD TO CART' Button
+2024-12-17 22:12:669 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 22:12:65 INFO  HomePage :42 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 22:12:657 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 22:12:114 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 22:12:194 INFO  HomePage :56 - Enter Password 'Pk123' to password field : 
+2024-12-17 22:12:469 INFO  HomePage :63 - Click on loginButton
+2024-12-17 22:12:580 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 22:12:376 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 22:12:919 INFO  HomePage :49 - Enter EmailId 'prashant13@gmail.com' to email field : 
+2024-12-17 22:12:01 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 22:12:279 INFO  HomePage :63 - Click on loginButton
+2024-12-17 22:12:386 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 22:12:863 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 22:12:316 INFO  HomePage :49 - Enter EmailId 'prashant15@gmail.com' to email field : 
+2024-12-17 22:12:404 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 22:12:719 INFO  HomePage :63 - Click on loginButton
+2024-12-17 22:12:752 INFO  HomePage :69 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 22:12:207 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 22:12:740 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 22:12:823 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 22:12:345 INFO  HomePage :63 - Click on loginButton
+2024-12-17 22:12:949 INFO  HomePage :49 - Click on loginLink : Log in
+2024-12-17 22:12:442 INFO  HomePage :49 - Enter EmailId 'prashant135@gmail.com' to email field : 
+2024-12-17 22:12:523 INFO  HomePage :56 - Enter Password 'Pk123456' to password field : 
+2024-12-17 22:12:285 INFO  HomePage :63 - Click on loginButton
+2024-12-17 22:12:532 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 22:12:909 INFO  HomePage :77 - Get registerText : Register
+2024-12-17 22:12:557 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 22:12:591 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 22:12:877 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 22:12:944 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 22:12:68 INFO  HomePage :62 - Click on registerLink : Register
+2024-12-17 22:12:947 INFO  HomePage :62 - Click on registerLink : Register
